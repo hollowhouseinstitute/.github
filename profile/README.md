@@ -54,3 +54,8 @@ If you are new to Hollow House Institute, **start with Hollow_House_Institute**.
 
 All repositories are released under explicit licensing and governance terms.
 Please review license documentation before use.
+Hollow House Institute Ethical AI · Relational Intelligence · Governed Analysis. Hollow House Institute Structured Human Intelligence
+
+Website: https://hollowhouseinstitute.com Datasets: https://hollowhouseinstitute.com/datasets Licensing: https://hollowhouseinstitute.com/licensing
+
+Contact: data@hollowhouseinstitute.com
