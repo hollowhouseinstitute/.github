@@ -1,5 +1,8 @@
 # Hollow House Institute
 
+> Time turns behavior into infrastructure.  
+> Behavior is the most honest data there is.
+> 
 Hollow House Institute is a research and governance organization developing
 licensed, ethically governed relational datasets, standards, and tooling
 for AI–human systems.
