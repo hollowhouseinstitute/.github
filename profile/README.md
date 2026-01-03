@@ -61,4 +61,4 @@ Hollow House Institute Ethical AI · Relational Intelligence · Governed Analysi
 
 Website: https://hollowhouseinstitute.com Datasets: https://hollowhouseinstitute.com/datasets Licensing: https://hollowhouseinstitute.com/licensing
 
-Contact: data@hollowhouseinstitute.com
+Contact: data@hollowhouse.org
