@@ -1,64 +1,90 @@
 # Hollow House Institute
+## Structured Human Intelligence
 
-> Time turns behavior into infrastructure.  
-> Behavior is the most honest data there is.
-> 
-Hollow House Institute is a research and governance organization developing
-licensed, ethically governed relational datasets, standards, and tooling
-for AI–human systems.
-
-Our work focuses on:
-- Human-authored relational and behavioral datasets
-- Somatic and nervous-system–informed pattern modeling
-- AI ethics, auditing, and governance frameworks
-- Reproducible, license-bound research infrastructure
+**Time turns behavior into infrastructure.**  
+**Behavior is the most honest data there is.**
 
 ---
 
-## Canonical Entry Point
+Hollow House Institute is a research and governance organization developing **longitudinal AI governance infrastructure** for systems, platforms, and organizations.
 
-**Hollow_House_Institute** is the primary, authoritative repository for the institute.
-
-It defines:
-- Core system architecture
-- Governance and licensing frameworks
-- Release structure and integrity controls
-
-All other repositories under this organization either extend, implement,
-experiment with, or archive components defined in this core system.
-
-If you are new to Hollow House Institute, **start with Hollow_House_Institute**.
+We specialize in detecting how **risk, harm, and instability emerge over time** through repeated behavioral patterns—rather than relying on snapshot audits, sentiment analysis, or static datasets.
 
 ---
 
-## Repository Structure
+## Core Intellectual Property
 
-**Core & Governance**
-- Hollow_House_Institute
-- Master_License_Suite
-- Datasets_Core
+### **Longitudinal Relational Governance Framework™**
 
-**Datasets & Research**
-- Ai_Human_Relations_Datasets
-- Somatic_Field_Systems
-- Nervous_System_Codex
-- Research_Papers
+A proprietary governance and audit system that converts repeated human and AI behavior into **auditable risk infrastructure**.
 
-**Standards, Tools & Audits**
-- Hollow_House_Standards_Library
-- Hollow_House_Tools
-- Field_Tech_Core
-- Ai_Ethics_Audit_Lab
+**What makes it novel**
+- Measures behavioral accumulation, not isolated events
+- Detects harm that persists despite high retention or apparent success
+- Surfaces risk before burnout, public failure, or regulatory action
 
-**Archives**
-- Codex_OPPS_Archive
+**Foundational Doctrine**
+- Time turns behavior into infrastructure
+- Behavior is the most honest data there is
 
 ---
 
-All repositories are released under explicit licensing and governance terms.
-Please review license documentation before use.
-Hollow House Institute Ethical AI · Relational Intelligence · Governed Analysis. Hollow House Institute Structured Human Intelligence
+## Proprietary Metrics
 
-Website: https://hollowhouseinstitute.com Datasets: https://hollowhouseinstitute.com/datasets Licensing: https://hollowhouseinstitute.com/licensing
+- **Loyalty Load Index (LLI)** — measures harm absorbed to remain connected  
+- **Repair Integrity Score (RIS)** — distinguishes real change from cyclical repair  
+- **Identity Harm Severity (IHS)** — flags non-mitigable identity-level harm  
+- **Exit Cost Ratio (ECR)** — compares cost of leaving versus staying  
 
-Contact: data@hollowhouse.org
+These metrics are **longitudinal, non-obvious, and process-based**.
+
+---
+
+## Public Reference Assets
+
+### 📄 White Paper
+**Time Turns Behavior Into Infrastructure:  
+A Longitudinal AI Governance Framework**
+
+https://hollowhouseinstitute.com/longitudinal-ai-governance
+
+---
+
+### 📊 Dataset Catalog (Evaluation-Only)
+
+Governance-grade behavioral benchmarks demonstrating the framework.
+
+- **BST-01** — Behavioral State Transition Benchmark  
+- **BST-02** — Escalation & Intervention Failure Benchmark  
+
+https://github.com/hollowhouseinstitute/Dataset_Catalog
+
+> Datasets are anonymized, non-clinical, evaluation-only, and not training data.  
+> They function as **reference implementations**, not raw IP disclosure.
+
+---
+
+## What We Build
+
+- Longitudinal governance frameworks  
+- AI audit methodologies and protocols  
+- Proprietary behavioral risk metrics  
+- Evaluation benchmarks (BST series)  
+- Compliance-ready dataset catalogs  
+
+---
+
+## What We Are Not
+
+- Not therapy  
+- Not coaching  
+- Not sentiment analysis  
+- Not personality profiling  
+- Not narrative data sellers  
+
+We operate strictly at the **governance and audit layer**.
+
+---
+
+© Hollow House Institute  
+Structured Human Intelligence
