@@ -46,8 +46,6 @@ These metrics are **longitudinal, non-obvious, and process-based**.
 **Time Turns Behavior Into Infrastructure:  
 A Longitudinal AI Governance Framework**
 
-https://hollowhouseinstitute.com/longitudinal-ai-governance
-
 ---
 
 ### 📊 Dataset Catalog (Evaluation-Only)
