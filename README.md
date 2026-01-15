@@ -59,7 +59,13 @@ This repository informs and constrains:
 
 Where conflicts arise, **doctrine defined here supersedes local README language**.
 
----
+---## Governance Definitions
+
+Key terms used in this repository (e.g., *behavioral drift*, *decision substitution*, *escalation decay*)
+are defined in the **HHI Governance Glossary**.
+
+Canonical definitions:
+https://github.com/hollowhouseinstitute/Hollow_House_Standards_Library/blob/main/glossary.md
 
 ## Organizational Standards
 
