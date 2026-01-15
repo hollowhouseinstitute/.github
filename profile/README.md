@@ -1,60 +1,96 @@
 # Hollow House Institute
-## Structured Human Intelligence
 
-**Time turns behavior into infrastructure.**  
-**Behavior is the most honest data there is.**
-
----
-
-Hollow House Institute is a research and governance organization developing **longitudinal AI governance infrastructure** for systems, platforms, and organizations.
-
-We specialize in detecting how **risk, harm, and instability emerge over time** through repeated behavioral patterns—rather than relying on snapshot audits, sentiment analysis, or static datasets.
+**Structured Human Intelligence**  
+*Time turns behavior into infrastructure.*  
+*Behavior is the most honest data there is.*
 
 ---
 
-## Core Intellectual Property
+## What This Is
 
-### **Longitudinal Relational Governance Framework™**
+Hollow House Institute is an independent research and governance authority focused on **longitudinal risk in AI systems**.
 
-A proprietary governance and audit system that converts repeated human and AI behavior into **auditable risk infrastructure**.
+We examine how repeated AI use reshapes:
+- human judgment
+- escalation behavior
+- accountability assignment
+- organizational decision-making
 
-**What makes it novel**
-- Measures behavioral accumulation, not isolated events
-- Detects harm that persists despite high retention or apparent success
-- Surfaces risk before burnout, public failure, or regulatory action
-
-**Foundational Doctrine**
-- Time turns behavior into infrastructure
-- Behavior is the most honest data there is
+Our work addresses risks that do not appear in point-in-time audits, benchmarks, or compliance checklists.
 
 ---
 
-## Proprietary Metrics
+## Core Focus
 
-- **Loyalty Load Index (LLI)** — measures harm absorbed to remain connected  
-- **Repair Integrity Score (RIS)** — distinguishes real change from cyclical repair  
-- **Identity Harm Severity (IHS)** — flags non-mitigable identity-level harm  
-- **Exit Cost Ratio (ECR)** — compares cost of leaving versus staying  
+- Behavioral drift over time
+- Decision substitution and confidence reinforcement
+- Escalation decay and override erosion
+- Normalization of workarounds
+- Accumulated governance and identity harm
 
-These metrics are **longitudinal, non-obvious, and process-based**.
-
----
-
-## Public Reference Assets
-
-### 📄 White Paper
-**Time Turns Behavior Into Infrastructure:  
-A Longitudinal AI Governance Framework**
+Behavior is treated as **auditable infrastructure**, not anecdotal signal.
 
 ---
 
-### 📊 Dataset Catalog (Evaluation-Only)
+## Canonical Authority
 
-Governance-grade behavioral benchmarks demonstrating the framework.
+This GitHub organization is the **canonical public authority** for Hollow House Institute governance artifacts, including:
 
-- **BST-01** — Behavioral State Transition Benchmark  
-- **BST-02** — Escalation & Intervention Failure Benchmark  
+- governance standards
+- licensing instruments
+- audit frameworks
+- research publications
+- ethically governed datasets
 
+### Licensing & Governance
+All materials are governed under the **Hollow House Institute Master License Suite (HHI-MLS)**.
+
+Authoritative licensing and governance instruments are maintained at:  
+https://github.com/hollowhouseinstitute/Master_License_Suite
+
+No rights are granted by default.
+
+---
+
+## Repository Structure
+
+This organization is intentionally structured across clear layers:
+
+- **Doctrine & Publications**  
+  Longitudinal governance frameworks and research papers
+
+- **Governance & Licensing**  
+  Standards libraries and authoritative license instruments
+
+- **Datasets**  
+  Ethically governed human–AI relational datasets
+
+- **Tools & Systems**  
+  Supporting analysis and audit tooling (non-product, non-autonomous)
+
+- **Public Interfaces**  
+  Website and documentation sources for public reference
+
+Each repository declares its scope and authority explicitly.
+
+---
+
+## Use & Access
+
+Access, reuse, commercial use, derivative works, and training permissions are **restricted and license-bound**.
+
+Refer to the Master License Suite for terms and request procedures.
+
+---
+
+## Contact
+
+Governance, audit, and licensing inquiries:  
+**data@hollowhouse.org**
+
+---
+
+© Hollow House Institute. All rights reserved.
 https://github.com/hollowhouseinstitute/Dataset_Catalog
 
 > Datasets are anonymized, non-clinical, evaluation-only, and not training data.  
