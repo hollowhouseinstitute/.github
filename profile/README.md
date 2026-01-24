@@ -1,5 +1,7 @@
 # Hollow House Institute
+
 AI Governance & Compliance
+
 Behavioral Infrastructure · Longitudinal Governance · Language Authority
 
 **Structured Human Intelligence**  
