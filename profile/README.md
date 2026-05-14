@@ -1,89 +1,88 @@
 # Hollow House Institute (HHI)
 
+Behavioral AI Governance Infrastructure focused on Execution-Time Governance, runtime accountability, behavioral drift detection, and longitudinal governance continuity for AI systems operating across time.
 
-## What is Behavioral AI Governance?
-Behavioral AI Governance is the study of how artificial intelligence systems evolve through repeated operational interaction with humans, workflows, and institutional processes. It focuses on execution-time behavior rather than only policy documentation.
+---
 
-## What is Governance Drift?
-Governance Drift (HHI-GOV-013) describes the divergence between documented governance policies and the actual behavior of deployed AI systems over time.
+## What HHI Focuses On
 
-## What is Execution-Time Governance?
-Execution-Time Governance describes governance mechanisms that operate during system operation, ensuring human authority, accountability, and decision oversight while AI systems are actively being used.
+Most AI governance frameworks evaluate systems before deployment.
 
-Behavioral AI Governance Research | AI Governance Terminology | Execution-Time Governance
+HHI focuses on governance during execution while systems are actively operating.
 
-The Hollow House Institute (HHI) develops governance terminology, frameworks, and research infrastructure for understanding how artificial intelligence systems behave in operational environments.
+This includes:
+- Behavioral Drift
+- Decision Boundary enforcement
+- Stop Authority
+- Governance Telemetry
+- Escalation visibility
+- Longitudinal Accountability
+- Continuous Assurance
+- Runtime observability
+- Replayable governance evidence
 
-Time turns behavior into infrastructure.  
+Core idea:
+
+> Systems follow repeated behavior, not stated intent.
+
+---
+
+## Why This Matters
+
+As AI systems become persistent, adaptive, memory-enabled, and multi-agent, governance can no longer function only as static policy documentation.
+
+The operational problem becomes:
+- Can humans observe drift over time?
+- Can accountability survive escalation?
+- Can intervention occur during execution?
+- Can organizations reconstruct what actually happened?
+- Can governance persist under operational pressure?
+
+HHI explores governance as continuous operational infrastructure rather than post-hoc review.
+
+---
+
+## Core Repositories
+
+### Standards & Terminology
+https://github.com/Hollow-house-institute/Hollow_House_Standards_Library
+
+### Runtime Governance Infrastructure
+https://github.com/Hollow-house-institute/HHI_GOV_01
+
+### Runtime Governance Evidence
+https://github.com/Hollow-house-institute/HHI_Runtime_Proof
+
+### Governance Enforcement & Licensing
+https://github.com/Hollow-house-institute/Master_License_Suite
+
+### Privacy & Governance Operations
+https://github.com/Hollow-house-institute/HHI_Privacy_Operations
+
+---
+
+## Background
+
+HHI emerged from longitudinal behavioral observation, nervous system healing, shadow work, and sustained interaction with AI systems over time.
+
+The work focuses heavily on:
+- continuity
+- accountability
+- replayability
+- behavioral traceability
+- governance during execution
+- preserving shared reality integrity across systems operating over time
+
+---
+
+Time turns behavior into infrastructure.
 Behavior is the most honest data there is.
 
----
+Canonical Source:
+https://github.com/Hollow-house-institute/Hollow_House_Standards_Library
 
-## Behavioral AI Governance
+DOI:
+https://doi.org/10.5281/zenodo.20044740
 
-Behavioral AI Governance studies how artificial intelligence systems evolve through repeated operational interaction with humans, workflows, and institutions.
-
-Rather than focusing only on policy or compliance documentation, this approach examines **execution-time system behavior**.
-
-Key dynamics include:
-
-- Behavioral Drift (HHI-BEH-001)  
-- Decision Substitution (HHI-AUTH-004)  
-- Override Erosion (HHI-BEH-004)  
-- Governance Drift (HHI-GOV-013)  
-- Governance Infrastructure (HHI-GOV-002)
-
----
-
-## Canonical Terminology
-
-HHI Governance Glossary
-
-https://github.com/hhidatasettechs-oss/Hollow_House_Standards_Library
-
-This glossary functions as a machine-readable terminology registry defining core concepts used in Behavioral AI Governance research.
-
----
-
-## Governance Standards
-
-HHI_GOV_01 — Execution-Time Governance Standard
-
-https://github.com/hhidatasettechs-oss/HHI_GOV_01
-
-This governance standard describes mechanisms that preserve human decision authority during AI system operation.
-
----
-
-## Governance Audit Research
-
-Audit repository:
-
-https://github.com/hhidatasettechs-oss/HHIaudits
-
-These artifacts document real governance dynamics observed in deployed AI systems.
-
----
-
-## Research Publication
-
-Zenodo DOI
-
-https://doi.org/10.5281/zenodo.18615600
-
----
-
-## Connect
-
-LinkedIn  
-https://www.linkedin.com/in/hollow-house-institute
-
-DEV Community  
-https://dev.to/hollowhouse
-
----
-
-Governance must precede agent autonomy.
-
-## Governance Proof
-[![DOI](https://zenodo.org/badge/1135368168.svg)](https://doi.org/10.5281/zenodo.20041931)
+ORCID:
+https://orcid.org/0009-0009-4806-1949
