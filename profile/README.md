@@ -4,6 +4,18 @@ Behavioral AI Governance Infrastructure focused on Execution-Time Governance, ru
 
 ---
 
+
+## Governance Ecosystem Layers
+
+- Standards Layer → Hollow_House_Standards_Library
+- Runtime Governance Layer → HHI_GOV_01
+- Runtime Evidence Layer → HHI_Runtime_Proof
+- Audit & Case Study Layer → HHI_Audits
+- Professional Portfolio Layer → HHI_Career_Runtime
+- Governance Enforcement Layer → Master_License_Suite
+
+---
+
 ## What HHI Focuses On
 
 Most AI governance frameworks evaluate systems before deployment.
